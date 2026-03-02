@@ -1,0 +1,80 @@
+html{
+    background-image: url(./Multimedia/img/background.jpg);
+}
+
+body{
+    color: aliceblue;font-family:Arial, Helvetica, sans-serif;
+}
+.title{
+    color: rgb(0, 195, 255); text-align: center; font-size: 60px;
+}
+.film{
+ position: absolute;
+    top: 45px;
+    left: 900px;
+    height: 180px;
+    padding: 7px;
+}
+.video2{
+    position: absolute;
+    height: 350px;
+    top: 770px;   
+    right: 250px;   
+    border: 2px solid #1c4675;
+    border-radius: 10px;
+}
+.oso{
+float: right;
+ height: 180px; width: 180px;
+
+}
+.oso2{
+   float: right;
+ height: 180px; width: 180px;  
+   
+}
+.table{
+    background-color: rgb(47, 6, 153);
+}
+.table2{
+    background-color: rgb(47, 6, 153); text-align: center;
+}
+.audio{
+    color: rgb(43, 226, 208);
+}
+.s1{
+    color: rgb(0, 195, 255);
+}
+.s2{
+    color: rgb(0, 195, 255);
+}
+.s3{
+    color: rgb(0, 195, 255);
+}
+.lim{
+    color: rgba(251, 253, 250, 0.938);
+}
+.prov{
+    color: rgba(244, 247, 244, 0.938);
+}
+.enunciado1{
+    color: rgb(43, 226, 208);
+}
+.enunciado2{
+    color: rgb(43, 226, 208);
+}
+.enunciado3{
+    color: rgb(43, 226, 208);
+}
+.enunciado4{
+    color: rgb(43, 226, 208);
+}
+.inicio{
+    color: rgb(43, 226, 208);
+}
+.contacto{
+    color: rgb(43, 226, 208);
+}
+.calculator{
+    color: rgb(249, 254, 255);
+}
